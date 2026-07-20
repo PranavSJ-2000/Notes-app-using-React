@@ -1,2 +1,2 @@
 # Notes-app-using-React
-A simple notes app created using React
+This is a styled notes app — a React-based note-taking application built with Vite.
